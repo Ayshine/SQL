@@ -12,7 +12,7 @@ Bilgi Üniversitesi
 
 - `conda create --name sql python=3.5` komutu ile yeni bir conda env create ediniz.
 
-- `soource activate sql` (linux), `activate sql` ile conda environmentinizi aktive ediniz.
+- `source activate sql` (linux), `activate sql` ile conda environmentinizi aktive ediniz.
 
 - `pip install jupyter` ve `pip install ipython-sql`  ile jupyter ve jupyter notebook uzerinden sql kullanabilmek icin ipython-sql kutuphanelerini indiriniz.
 
