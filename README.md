@@ -24,9 +24,9 @@ Bilgi Üniversitesi
 
 - Kurulum tamamlandiktan ve conda environmenti aktive edildikten sonra `jupyter notebook` komutu calistirilarak browserda jupyer notebook acilir.
 
-- Acilan ekranda sag ust kosede - `new` tiklanarak yeni jupyer notebook olusturulur.
+- Acilan ekranda sağ üst köşede - `new` tiklanarak yeni jupyer notebook olusturulur.
 
-- devami notebooklarda.
+- devamı  notebooklarda.
 
 ## Microsoft SQL Server ile  Veri Tabanı Kullanımı ##
 
