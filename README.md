@@ -5,6 +5,7 @@ Bilgi Üniversitesi
 
 [Ders  Dokümanları](https://drive.google.com/drive/folders/1eFNTJqy5v9nb9hVJ525WwbalNsLqCRyG)
 
+[Sqlite İndirme Linki](https://sqlitebrowser.org/)
 
 ## Jupyter Kullanarak Sql Kullanmak için Kurulum ##
 
