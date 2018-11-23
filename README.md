@@ -7,7 +7,7 @@ Bilgi Üniversitesi
 
 [Sqlite İndirme Linki](https://sqlitebrowser.org/)
 
-## Jupyter Kullanarak Sql Kullanmak için Kurulum ##
+## Jupyter ile Sql Kullanmak için Kurulum ##
 
 - Anaconda [Kurulum linki](https://www.anaconda.com/download/#linux) ile kurulumunuzu tamamlayiniz.
 
@@ -21,7 +21,7 @@ Bilgi Üniversitesi
 
 **Anaconda Cheatsheet:** kurulum esnasinda da inderebileceginiz [anaconda cheatsheat]( https://conda.io/docs/_downloads/conda-cheatsheet.pdf) den komutlari calistirirken yardim alabilirsiniz.
 
-## Jupyter Kullanarak Sql Kullanımı ##
+## Jupyter ile Sql Kullanımı ##
 
 - Kurulum tamamlandiktan ve conda environmenti aktive edildikten sonra `jupyter notebook` komutu calistirilarak browserda jupyer notebook acilir.
 
