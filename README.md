@@ -18,6 +18,8 @@ Bilgi Üniversitesi
 - `pip install jupyter` ve `pip install ipython-sql`  ile jupyter ve jupyter notebook uzerinden sql kullanabilmek icin ipython-sql kutuphanelerini indiriniz.
 
 - `pip install pyhive[presto] # DB driver library` ile ornek database indirebilirsiniz. 
+-  SQLite Ornek Database: [Chinook](http://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip) (Database ornegi [SQLite Tutorial](http://www.sqlitetutorial.net/sqlite-sample-database/) websitesinden alinmistir  )
+
 
 **Anaconda Cheatsheet:** kurulum esnasinda da inderebileceginiz [anaconda cheatsheat]( https://conda.io/docs/_downloads/conda-cheatsheet.pdf) den komutlari calistirirken yardim alabilirsiniz.
 
